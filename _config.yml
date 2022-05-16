@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+gem "github-pages", group: :jekyll_plugins
+title: vollekannehebamme
+description: Kontaktdaten und mehr zu Johanna Ostmann
